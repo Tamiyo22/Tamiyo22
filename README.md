@@ -1,6 +1,6 @@
 <h1>Hi, I'm Melissa! <br/><a href="https://github.com/Tamiyo22">Programmer, Team Player</a>, <a href="https://www.linkedin.com/in/melissa-hargis/">Software Engineer with Machine Learning Experience.</a>
 
-<h2>A bit about me!</h2>
+<h2>✨A bit about me!✨</h2>
 
 - 🔭 I’m currently working on a dashboard with real-time news and weather updates with a ChatGPT-generated summary of your current selected city.
   
