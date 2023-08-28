@@ -19,9 +19,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack </b>
-  - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks)
-  - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication)
-  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
+  - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks) (React / FireBase Database)
+  - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication) (JavaFx Front End/ Java Back End/ MySQL Database)
+  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application) (React Front End / SpringBoot Back End/ MongoDB Database
   
 - <b>Machine Learning</b>
   - [Forum Recommender: NLP, Flask, AWS ](http://3.129.123.13/)
