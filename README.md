@@ -43,6 +43,7 @@
   - [Jiffy ](https://github.com/Tamiyo22/jiffy-Project)
   - [Marmalade](https://github.com/Tamiyo22/Marmalade.fm)
   - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
+  - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
 
 
 <h2> 🤳 Connect with me:</h2>
