@@ -21,6 +21,7 @@
 - <b>Full Stack </b>
   - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks)
   - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication)
+  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
   
 - <b>Machine Learning</b>
   - [Forum Recommender: NLP, Flask, AWS ](http://3.129.123.13/)
@@ -29,6 +30,7 @@
 
   - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication)
   - [DependencyInjectionSpringBoot](https://github.com/Tamiyo22/DependencyInjectionSpringBoot)
+  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
  
 - <b>Python</b>
   - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/Tamiyo22/Package-Delivery-Algorithm)
@@ -40,6 +42,7 @@
   - [Real-time_Weather-Application ](https://github.com/Tamiyo22/Real-time_Weather-Application)
   - [Jiffy ](https://github.com/Tamiyo22/jiffy-Project)
   - [Marmalade](https://github.com/Tamiyo22/Marmalade.fm)
+  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
 
 
 <h2> 🤳 Connect with me:</h2>
