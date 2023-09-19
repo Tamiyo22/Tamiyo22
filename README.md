@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a dashboard with real-time news and weather updates with a ChatGPT-generated summary of your current selected city.
   
-- 🌱 I’m currently learning Angular and Kotlin.
+- 🌱 I’m currently learning Angular, Kotlin and ASP.NET
   
 - 👯 I’m looking to collaborate on people-centric projects and a study buddy for reviewing data structures and algorithms.
   
