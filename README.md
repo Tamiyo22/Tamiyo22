@@ -8,8 +8,6 @@
   
 - 🤔 I’m looking for help with finding more learning resources. I am always ready to learn and improve my skills.
   
-- 💬 Ask me about GUIs, User Interfaces, MLOps, Full Stack Development, and project planning, etc. I am a jill of all trades and I know a bit of everything and if I don't know it, I can find out. :-)
-  
 - ⚡ Fun fact(s) I am crazy good at paintball, I am passionate about animal care, and I met my husband playing Magic: the Gathering.
  
 
