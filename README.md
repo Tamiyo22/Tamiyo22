@@ -1,15 +1,14 @@
-<h1>Hi, I'm Melissa! <br/><a href="https://github.com/Tamiyo22">Programmer, Team Player</a>, <a href="https://www.linkedin.com/in/melissa-hargis/">Software Engineer with Machine Learning Experience.</a>
+<h1>Hi, I'm Melissa! <br/><a href="https://github.com/Tamiyo22"> Data Science Masters Student, BSCS grad</a>, <a href="https://www.linkedin.com/in/melissa-hargis/"></a>
 
 <h2>✨A bit about me!✨</h2>
 
-- 🔭 I’m currently working on a dashboard with real-time news and weather updates with a ChatGPT-generated summary of your current selected city.
-  
-- 👯 I’m looking to collaborate on people-centric projects and a study buddy for reviewing data structures and algorithms.
-  
-- 🤔 I’m looking for help with finding more learning resources. I am always ready to learn and improve my skills.
-  
-- ⚡ Fun fact(s) I am crazy good at paintball, I am passionate about animal care, and I met my husband playing Magic: the Gathering.
- 
+🔭 Current Project: I'm working on developing a dashboard that provides real-time news and weather updates. What makes it unique is the inclusion of a ChatGPT-generated summary, tailored specifically to your chosen city.
+
+👯 Collaboration: I'm on the lookout for opportunities to collaborate on projects that focus on positive impact and community building. Additionally, I'm seeking a study buddy to explore data structures and algorithms together.
+
+🤔 Seeking Help: I'm always eager to expand my knowledge and skillset. If you know of any exceptional learning resources, especially in advanced topics, I'd love to hear your suggestions.
+
+⚡ Fun Facts: My skills on the paintball field might surprise you! I have a deep passion for animal care and welfare. A unique tidbit about my personal life - I met my husband through our mutual love for Magic: The Gathering.
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
