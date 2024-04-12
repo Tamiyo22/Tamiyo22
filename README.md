@@ -2,7 +2,7 @@
 
 <h2>✨A bit about me!✨</h2>
 
-🔭 Current Project: I'm working on developing a dashboard that provides real-time news and weather updates. What makes it unique is the inclusion of a ChatGPT-generated summary, tailored specifically to your chosen city.
+🔭 Current Project: I just finished a small project creating a LLM powered YouTube Assistant!
 
 👯 Collaboration: I'm on the lookout for opportunities to collaborate on projects that focus on positive impact and community building. Additionally, I'm seeking a study buddy to explore data structures and algorithms together.
 
