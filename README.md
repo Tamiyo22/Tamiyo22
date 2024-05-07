@@ -21,6 +21,7 @@
 - <b>Data Science</b>
   - [Forum Recommender: NLP, Flask, AWS ](http://3.129.123.13/)
   - [Video Summary Maker: LangChain, OpenAI, Streamlit](https://github.com/Tamiyo22/Video-Summary-Maker/tree/master)
+  -  [Sparkify_Music_DB_ETL](https://github.com/Tamiyo22/Sparkify_Music_DB_ETL)
  
 - <b>Java</b>
 
