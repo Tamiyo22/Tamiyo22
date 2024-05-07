@@ -34,19 +34,6 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 - **Tools:** MySQL, PostgreSQL, AWS, Docker, Tableau
 - **Concepts:** Machine Learning, Data Analysis, Statistical Analysis, Database Management, Large Language Models
 
-## 🌟 Projects
-
-- **Forum Recommender:** Utilized DistilBERT for accurate forum topic predictions to boost user engagement.
-- **Safe School Identifier System:** Implemented YOLOv5 for real-time threat detection and campus safety.
-- **Movie Trailer Reviews:** Created a full-stack platform for aggregating user insights on movie trailers.
-
-
-## 📞 Connect with Me
-
-- **LinkedIn:** [Melissa Hargis](https://linkedin.com/in/melissa-hargis/)
-- **Email:** [messageMelissaHargis@gmail.com](mailto:messageMelissaHargis@gmail.com)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 <h2>👨‍💻 Projects</h2>
 
@@ -80,6 +67,14 @@ Feel free to explore my repositories and reach out if you have any questions or 
   - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
   - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
 
+
+
+## 📞 Connect with Me
+
+- **LinkedIn:** [Melissa Hargis](https://linkedin.com/in/melissa-hargis/)
+- **Email:** [messageMelissaHargis@gmail.com](mailto:messageMelissaHargis@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 
 
