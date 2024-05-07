@@ -1,17 +1,54 @@
-<h1>Hi, I'm Melissa! <br/><a href="https://github.com/Tamiyo22"> Data Science Masters Student, BSCS grad</a>, <a href="https://www.linkedin.com/in/melissa-hargis/"></a>
+# Melissa Hargis
 
-<h2>✨A bit about me!✨</h2>
+Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuing a Master of Science in Data Science at Eastern University. I specialize in Python, machine learning, data visualization, and I'm currently deepening my expertise in Large Language Models (LLM).
 
-🔭 Current Project: I just finished a small project creating a LLM powered YouTube Assistant!
+## 📚 Educational Background
 
-👯 Collaboration: I'm on the lookout for opportunities to collaborate on projects that focus on positive impact and community building. Additionally, I'm seeking a study buddy to explore data structures and algorithms together.
+- **Master of Science in Data Science** - Eastern University (Expected Sep 2025)
+- **Bachelor of Science in Computer Science** - Western Governors University (Sep 2022)
 
-🤔 Seeking Help: I'm always eager to expand my knowledge and skillset. If you know of any exceptional learning resources, especially in advanced topics, I'd love to hear your suggestions.
+## 💼 Professional Experience
 
-⚡ Fun Facts: My skills on the paintball field might surprise you! I have a deep passion for animal care and welfare. A unique tidbit about my personal life - I met my husband through our mutual love for Magic: The Gathering.
+### Data Glacier
+**Data Science Intern** (Mar 2024 – Present)
+- Engaged in real-world projects involving data cleaning, analysis, and machine learning model development using Python, Pandas, and NumPy.
+- Enhanced data-driven decision-making through effective database management and data visualization techniques.
+
+### Headstarter
+**Software Engineering Fellow** (Mar 2023 – Jul 2023)
+- Developed a full-stack web application with Typescript and Firebase, focusing on improving user experience via API integration and OpenAI API utilization.
+
+### STEM-Away
+**Software Engineer** (Jan 2021 – Apr 2021)
+- Led the creation of a metrics dashboard, improving application performance by 20%.
+- Optimized development processes, reducing cycle times by 30% through Java Hibernate and Docker.
+
+**Machine Learning Engineer Intern** (May 2020 – Sep 2020)
+- As Task Lead, managed 12 international teams in deploying machine learning applications.
+- Developed a forum classifier with a 95% accuracy using the DistilBERT model.
+
+## 🚀 Technical Skills
+
+- **Languages:** Python, SQL, R, Java, JavaScript
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Scikit-learn, TensorFlow, Keras, XGBoost
+- **Tools:** MySQL, PostgreSQL, AWS, Docker, Tableau
+- **Concepts:** Machine Learning, Data Analysis, Statistical Analysis, Database Management, Large Language Models
+
+## 🌟 Projects
+
+- **Forum Recommender:** Utilized DistilBERT for accurate forum topic predictions to boost user engagement.
+- **Safe School Identifier System:** Implemented YOLOv5 for real-time threat detection and campus safety.
+- **Movie Trailer Reviews:** Created a full-stack platform for aggregating user insights on movie trailers.
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 📞 Connect with Me
+
+- **LinkedIn:** [Melissa Hargis](https://linkedin.com/in/melissa-hargis/)
+- **Email:** [messageMelissaHargis@gmail.com](mailto:messageMelissaHargis@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+<h2>👨‍💻 Projects</h2>
 
 - <b>Full Stack </b>
   - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks) (React / FireBase Database)
@@ -44,7 +81,5 @@
   - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-📫 How to reach me: [linkedin]: https://linkedin.com/in/melissa-hargis
 
