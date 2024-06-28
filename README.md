@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 
 ## 📚 Educational Background
 
-- **Master of Science in Data Science** - Eastern University (Expected Sep 2025)
+- **Master of Science in Data Science** - Eastern University (Expected Jan 2026)
 - **Bachelor of Science in Computer Science** - Western Governors University (Sep 2022)
 
 ## 💼 Professional Experience
