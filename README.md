@@ -29,10 +29,15 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 
 ## 🚀 Technical Skills
 
-- **Languages:** Python, SQL, R, Java, JavaScript
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Scikit-learn, TensorFlow, Keras, XGBoost
-- **Tools:** MySQL, PostgreSQL, AWS, Docker, Tableau
-- **Concepts:** Machine Learning, Data Analysis, Statistical Analysis, Database Management, Large Language Models
+- **Languages:** Python, Java, JavaScript, C++
+- **Frameworks:**  Flask, JavaFX, Angular, Spring Boot, React, Node, Express, TensorFlow, Keras, Pytorch, XGBoost, Langchain 
+- **Tools:** GCP, AWS, Jupyter Notebook, Docker, Apache Spark
+- **Testing:** JUnit, Jest, Mocha
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Scikit-learn, Hugging Face Transformers 
+- **Databases:** SQL, MySQL, MongoDB, PostgreSQL, Cassandra, Firebase
+- **Deployment:** AWS EC2, NGINX, Ubuntu
+- **Concepts:** Machine Learning, Data Analysis, Statistical Analysis, Database Management
+
 
 
 <h2>👨‍💻 Projects</h2>
