@@ -77,7 +77,7 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 ## 📞 Connect with Me
 
 - **LinkedIn:** [Melissa Hargis](https://linkedin.com/in/melissa-hargis/)
-- **Email:** [messageMelissaHargis@gmail.com](mailto:messageMelissaHargis@gmail.com)
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
