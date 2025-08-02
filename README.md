@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 
 ## 📚 Educational Background
 
-- **Master of Science in Data Science** - Eastern University (Expected Jan 2026)
+- **Master of Science in Data Science** - Eastern University (2024- Present)
 - **Bachelor of Science in Computer Science** - Western Governors University (Sep 2022)
 
 ## 💼 Professional Experience
 
 ### Data Glacier
-**Data Science Intern** (Mar 2024 – Present)
+**Data Science Intern** (June 2024 – Present)
 - Engaged in real-world projects involving data cleaning, analysis, and machine learning model development using Python, Pandas, and NumPy.
 - Enhanced data-driven decision-making through effective database management and data visualization techniques.
 
@@ -19,11 +19,11 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 - Developed a full-stack web application with Typescript and Firebase, focusing on improving user experience via API integration and OpenAI API utilization.
 
 ### STEM-Away
-**Software Engineer** (Jan 2021 – Apr 2021)
+**Software Engineer** (Sept 2020 – Apr 2021)
 - Led the creation of a metrics dashboard, improving application performance by 20%.
 - Optimized development processes, reducing cycle times by 30% through Java Hibernate and Docker.
 
-**Machine Learning Engineer Intern** (May 2020 – Sep 2020)
+**Machine Learning Engineer Intern** (May 2020 – Sept 2020)
 - As Task Lead, managed 12 international teams in deploying machine learning applications.
 - Developed a forum classifier with a 95% accuracy using the DistilBERT model.
 
