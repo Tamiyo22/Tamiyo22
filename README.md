@@ -78,8 +78,10 @@ Welcome to my GitHub!
   - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
 
 - <b>Salesforce</b>
+  - [Salesforce Agent for LG](https://github.com/Tamiyo22/Salesforce-LG-Agent-with-Unstructured-Data) 
   - Currently preparing for my Salesforce Platform Developer I certification and having fun with Agentforce.  
-  [Trailblazer](salesforce.com/trailblazer/melissahargis)  
+  [Trailblazer](salesforce.com/trailblazer/melissahargis) 
+
 
 
 ## 📞 Connect with Me
