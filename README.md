@@ -1,6 +1,6 @@
 # Melissa Hargis
 
-Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuing a Master of Science in Data Science at Eastern University. I specialize in Python, machine learning, data visualization, and I'm currently deepening my expertise in Large Language Models (LLM).
+Welcome to my GitHub! 
 
 ## 📚 Educational Background
 
@@ -11,32 +11,37 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 
 ### Data Glacier
 **Data Science Intern** (June 2024 – Present)
-- Engaged in real-world projects involving data cleaning, analysis, and machine learning model development using Python, Pandas, and NumPy.
-- Enhanced data-driven decision-making through effective database management and data visualization techniques.
+-	Designed and developed interactive data visualizations to drive strategic business decisions for real-world datasets.
+-	Performed end-to-end data preparation, including cleaning, feature engineering, and exploratory analysis using Python, Pandas, and NumPy.
+-	Built and evaluated predictive machine learning models, optimizing accuracy and interpretability to support actionable insights.
+-	Collaborated in a remote, Agile-style environment, presenting findings to peers and incorporating feedback into project iterations.
+
 
 ### Headstarter
 **Software Engineering Fellow** (Mar 2023 – Jul 2023)
-- Developed a full-stack web application with Typescript and Firebase, focusing on improving user experience via API integration and OpenAI API utilization.
+-	Developed projects from design to deployment while leading 4+ fellows using MVC design patterns.
+-	Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git and micro-service patterns.
+
 
 ### STEM-Away
-**Software Engineer** (Sept 2020 – Apr 2021)
-- Led the creation of a metrics dashboard, improving application performance by 20%.
-- Optimized development processes, reducing cycle times by 30% through Java Hibernate and Docker.
+**Machine Learning Engineer Intern & Software Engineer** (May 2020 – Apr 2021)
+-	Led development of a metrics dashboard using Java, Ruby, and MySQL, improving performance by 20%.
+-	Promoted to Task Lead for 12 teams internationally.
+-	Performed data cleaning and analysis via Python, Pandas, NumPy, and Seaborn.
+-	Lead the deployment of Machine Learning applications to production using AWS, uWSGI, and NGINX.
+-	Fine-tuned DistilBERT model using Ktrain and created an interactive front end using Flask with a 95% accuracy.
 
-**Machine Learning Engineer Intern** (May 2020 – Sept 2020)
-- As Task Lead, managed 12 international teams in deploying machine learning applications.
-- Developed a forum classifier with a 95% accuracy using the DistilBERT model.
 
 ## 🚀 Technical Skills
 
-- **Languages:** Python, Java, JavaScript, C++
-- **Frameworks:**  Flask, JavaFX, Angular, Spring Boot, React, Node, Express, TensorFlow, Keras, Pytorch, XGBoost, Langchain 
-- **Tools:** GCP, AWS, Jupyter Notebook, Docker, Apache Spark
-- **Testing:** JUnit, Jest, Mocha
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Scikit-learn, Hugging Face Transformers 
-- **Databases:** SQL, MySQL, MongoDB, PostgreSQL, Cassandra, Firebase
-- **Deployment:** AWS EC2, NGINX, Ubuntu
-- **Concepts:** Machine Learning, Data Analysis, Statistical Analysis, Database Management
+**SEnterprise & CRM Tools**: Salesforce, SAP, Workday, QuickBooks, Peachtree, Microsoft Office Suite, SharePoint, Notion, Asana
+**SProgramming Languages**: Python, Java, JavaScript, C++, Apex
+**SFrameworks & Platforms**: Flask, Angular, React, Spring Boot, Node.js, Express, TensorFlow, Keras, PyTorch
+**SData Science & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Hugging Face, Tableau, Splunk
+**SDatabases**: SQL, MySQL, MongoDB, PostgreSQL, Firebase, SOQL, SOSL
+**SCloud & Deployment**: AWS EC2, NGINX, Ubuntu, Salesforce Data Cloud
+**SSalesforce Ecosystem**: Administration, Lightning Web Components (LWC), Apex, SOQL/SOSL, Flows, Experience Cloud
+**SConcepts**: Machine Learning, Data Analysis, Statistical Modeling, Intelligent Agent Design, Salesforce Administration
 
 
 
@@ -50,7 +55,7 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
 - <b>Data Science</b>
   - [Forum Recommender: NLP, Flask, AWS ](http://3.129.123.13/)
   - [Video Summary Maker: LangChain, OpenAI, Streamlit](https://github.com/Tamiyo22/Video-Summary-Maker/tree/master)
-  -  [Sparkify_Music_DB_ETL](https://github.com/Tamiyo22/Sparkify_Music_DB_ETL)
+  - [Sparkify_Music_DB_ETL](https://github.com/Tamiyo22/Sparkify_Music_DB_ETL)
   -  [Insight for Cab Investment Firm: Tableau](https://github.com/Tamiyo22/Insights-for-Cab-Investment-Firm)
  
 - <b>Java</b>
@@ -72,6 +77,9 @@ Welcome to my GitHub! I'm Melissa, a passionate Data Scientist currently pursuin
   - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
   - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
 
+- <b>Salesforce</b>
+  - Currently preparing for my Salesforce Platform Developer I certification and having fun with Agentforce.  
+  [Trailblazer](salesforce.com/trailblazer/melissahargis)  
 
 
 ## 📞 Connect with Me
