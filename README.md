@@ -34,14 +34,14 @@ Welcome to my GitHub!
 
 ## 🚀 Technical Skills
 
--**Enterprise & CRM Tools**: Salesforce, SAP, Workday, QuickBooks, Peachtree, Microsoft Office Suite, SharePoint, Notion, Asana
--**Programming Languages**: Python, Java, JavaScript, C++, Apex
--**Frameworks & Platforms**: Flask, Angular, React, Spring Boot, Node.js, Express, TensorFlow, Keras, PyTorch
--**Data Science & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Hugging Face, Tableau, Splunk
--**Databases**: SQL, MySQL, MongoDB, PostgreSQL, Firebase, SOQL, SOSL
--**Cloud & Deployment**: AWS EC2, NGINX, Ubuntu, Salesforce Data Cloud
--**Salesforce Ecosystem**: Administration, Lightning Web Components (LWC), Apex, SOQL/SOSL, Flows, Experience Cloud
--**Concepts**: Machine Learning, Data Analysis, Statistical Modeling, Intelligent Agent Design, Salesforce Administration
+- **Enterprise & CRM Tools**: Salesforce, SAP, Workday, QuickBooks, Peachtree, Microsoft Office Suite, SharePoint, Notion, Asana
+- **Programming Languages**: Python, Java, JavaScript, C++, Apex
+- **Frameworks & Platforms**: Flask, Angular, React, Spring Boot, Node.js, Express, TensorFlow, Keras, PyTorch
+- **Data Science & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Hugging Face, Tableau, Splunk
+- **Databases**: SQL, MySQL, MongoDB, PostgreSQL, Firebase, SOQL, SOSL
+- **Cloud & Deployment**: AWS EC2, NGINX, Ubuntu, Salesforce Data Cloud
+- **Salesforce Ecosystem**: Administration, Lightning Web Components (LWC), Apex, SOQL/SOSL, Flows, Experience Cloud
+- **Concepts**: Machine Learning, Data Analysis, Statistical Modeling, Intelligent Agent Design, Salesforce Administration
 
 
 
