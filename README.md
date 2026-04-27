@@ -10,7 +10,7 @@ Welcome to my GitHub!
 ## 💼 Professional Experience
 
 ### Data Glacier
-**Data Science Intern** (June 2024 – Present)
+**Data Science Intern** (June 2024 – December 2026)
 -	Designed and developed interactive data visualizations to drive strategic business decisions for real-world datasets.
 -	Performed end-to-end data preparation, including cleaning, feature engineering, and exploratory analysis using Python, Pandas, and NumPy.
 -	Built and evaluated predictive machine learning models, optimizing accuracy and interpretability to support actionable insights.
