@@ -1,95 +1,198 @@
-# Melissa Hargis
+<h1 align="center">Hi, I'm Melissa Hargis 👋</h1>
 
-Welcome to my GitHub! 
+<p align="center">
+Data Scientist • Software Engineer 
+</p>
 
-## 📚 Educational Background
+---
 
-- **Master of Science in Data Science** - Eastern University (2024- Present)
-- **Bachelor of Science in Computer Science** - Western Governors University (Sep 2022)
+## About Me
+
+I'm a data scientist and software engineer with a background in machine learning, analytics, software development, and cloud technologies.
+
+I enjoy using data to solve real-world problems, uncover meaningful insights, and communicate findings clearly to technical and non-technical audiences alike.
+
+My current interests include:
+
+- Civic & Election Data
+- Data Science & Analytics
+- Machine Learning
+- Natural Language Processing
+- Data Visualization
+- Cloud Computing
+- Salesforce Development
+
+---
+
+## 🎓 Education
+
+### Eastern University
+**Master of Science in Data Science** *(2024–Present)*
+
+### Western Governors University
+**Bachelor of Science in Computer Science** *(2022)*
+
+---
 
 ## 💼 Professional Experience
 
 ### Data Glacier
-**Data Science Intern** (June 2024 – December 2026)
--	Designed and developed interactive data visualizations to drive strategic business decisions for real-world datasets.
--	Performed end-to-end data preparation, including cleaning, feature engineering, and exploratory analysis using Python, Pandas, and NumPy.
--	Built and evaluated predictive machine learning models, optimizing accuracy and interpretability to support actionable insights.
--	Collaborated in a remote, Agile-style environment, presenting findings to peers and incorporating feedback into project iterations.
+**Data Science Fellow** *(June 2024 – December 2025)*
 
+- Performed end-to-end data preparation using Python, Pandas, and NumPy.
+- Conducted exploratory data analysis and statistical modeling.
+- Built and evaluated machine learning models.
+- Created visualizations and communicated findings through reports and presentations.
+- Collaborated in remote Agile teams.
 
 ### Headstarter
-**Software Engineering Fellow** (Mar 2023 – Jul 2023)
--	Developed projects from design to deployment while leading 4+ fellows using MVC design patterns.
--	Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git and micro-service patterns.
+**Software Engineering Fellow** *(March 2023 – July 2023)*
 
+- Developed full-stack applications from design through deployment.
+- Led teams of 4+ engineers on collaborative projects.
+- Worked alongside engineers from Amazon, Bloomberg, and Capital One.
+- Utilized Git, CI/CD workflows, and modern software engineering practices.
 
 ### STEM-Away
-**Machine Learning Engineer Intern & Software Engineer** (May 2020 – Apr 2021)
--	Led development of a metrics dashboard using Java, Ruby, and MySQL, improving performance by 20%.
--	Promoted to Task Lead for 12 teams internationally.
--	Performed data cleaning and analysis via Python, Pandas, NumPy, and Seaborn.
--	Lead the deployment of Machine Learning applications to production using AWS, uWSGI, and NGINX.
--	Fine-tuned DistilBERT model using Ktrain and created an interactive front end using Flask with a 95% accuracy.
+**Machine Learning Engineer Intern & Software Engineer** *(May 2020 – April 2021)*
 
+- Developed operational analytics dashboards using Java and MySQL.
+- Led collaboration across 12 international teams.
+- Built and deployed machine learning applications using AWS.
+- Developed NLP solutions using DistilBERT and Flask.
+- Deployed applications using AWS, NGINX, and uWSGI.
 
-## 🚀 Technical Skills
+---
 
-- **Enterprise & CRM Tools**: Salesforce, SAP, Workday, QuickBooks, Peachtree, Microsoft Office Suite, SharePoint, Notion, Asana
-- **Programming Languages**: Python, Java, JavaScript, C++, Apex
-- **Frameworks & Platforms**: Flask, Angular, React, Spring Boot, Node.js, Express, TensorFlow, Keras, PyTorch
-- **Data Science & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Hugging Face, Tableau, Splunk
-- **Databases**: SQL, MySQL, MongoDB, PostgreSQL, Firebase, SOQL, SOSL
-- **Cloud & Deployment**: AWS EC2, NGINX, Ubuntu, Salesforce Data Cloud
-- **Salesforce Ecosystem**: Administration, Lightning Web Components (LWC), Apex, SOQL/SOSL, Flows, Experience Cloud
-- **Concepts**: Machine Learning, Data Analysis, Statistical Modeling, Intelligent Agent Design, Salesforce Administration
+# 📊 Featured Projects
 
+## County-Level Changes in Voter Participation (2020–2024)
 
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
 
-<h2>👨‍💻 Projects</h2>
+- Analyzed county-level election returns from the MIT Election Data and Science Lab (MEDSL)
+- Calculated county-level changes in voter participation between 2020 and 2024
+- Merged election data with County Health Rankings datasets
+- Conducted statistical analysis and visualization
+- Produced research-style findings explaining turnout patterns and participation changes
 
-- <b>Full Stack </b>
-  - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks) (React / FireBase Database)
-  - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication) (JavaFx Front End/ Java Back End/ MySQL Database)
-  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application) (React Front End / SpringBoot Back End/ MongoDB Database)
-  
-- <b>Data Science</b>
-  - [Forum Recommender: NLP, Flask, AWS ](http://3.129.123.13/)
-  - [Video Summary Maker: LangChain, OpenAI, Streamlit](https://github.com/Tamiyo22/Video-Summary-Maker/tree/master)
-  - [Sparkify_Music_DB_ETL](https://github.com/Tamiyo22/Sparkify_Music_DB_ETL)
-  -  [Insight for Cab Investment Firm: Tableau](https://github.com/Tamiyo22/Insights-for-Cab-Investment-Firm)
- 
-- <b>Java</b>
+---
 
-  - [International Appointment Scheduling Application](https://github.com/Tamiyo22/AppointmentSchedulingApplication)
-  - [DependencyInjectionSpringBoot](https://github.com/Tamiyo22/DependencyInjectionSpringBoot)
-  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
- 
-- <b>Python</b>
-  - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/Tamiyo22/Package-Delivery-Algorithm)
-  - [Sparkify_Music_DB_ETL](https://github.com/Tamiyo22/Sparkify_Music_DB_ETL)
- 
-  
-- <b>Javascript</b>
-  - [Tech-Task Manager](https://github.com/Tamiyo22/tech-tasks)
-  - [Real-time_Weather-Application ](https://github.com/Tamiyo22/Real-time_Weather-Application)
-  - [Jiffy ](https://github.com/Tamiyo22/jiffy-Project)
-  - [Marmalade](https://github.com/Tamiyo22/Marmalade.fm)
-  - [Movie-Trailers-Reviews-Application](https://github.com/Tamiyo22/Movie-Trailers-Reviews-Application)
-  - [Movie-Search](https://github.com/Tamiyo22/Movie-Search)
+## Forum Recommender
 
-- <b>Salesforce</b>
-  - [Salesforce Agent for LG](https://github.com/Tamiyo22/Salesforce-LG-Agent-with-Unstructured-Data) 
-  - Currently preparing for my Salesforce Platform Developer I certification and having fun with Agentforce.  
-  [Trailblazer](salesforce.com/trailblazer/melissahargis) 
+**NLP | DistilBERT | Flask | AWS**
 
+- Built and deployed an NLP-based recommendation system
+- Fine-tuned DistilBERT language models
+- Developed an interactive Flask front end
+- Deployed the application to AWS
 
+---
 
-## 📞 Connect with Me
+# 🔬 Data Science Projects
 
-- **LinkedIn:** [Melissa Hargis](https://linkedin.com/in/melissa-hargis/)
+### Video Summary Maker
+**LangChain | OpenAI | Streamlit**
 
+- Generates AI-powered summaries of long-form video content.
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+### Sparkify Music ETL
+**Python | SQL | Data Engineering**
 
+- Designed ETL pipelines for music streaming analytics.
+
+### Cab Investment Analysis
+**Tableau | Business Analytics**
+
+- Evaluated market and investment opportunities using exploratory data analysis and visualization.
+
+---
+
+# 💻 Software Engineering Projects
+
+### Tech Task Manager
+**React | Firebase**
+
+- Task management platform with authentication and cloud storage.
+
+### International Appointment Scheduling System
+**Java | JavaFX | MySQL**
+
+- Desktop scheduling application supporting multiple countries and time zones.
+
+### Movie Trailers & Reviews Platform
+**Spring Boot | MongoDB | React**
+
+- Full-stack movie review application with REST APIs and database integration.
+
+---
+
+# ☁️ Salesforce Projects
+
+### Salesforce Agent for LG
+
+- Agentforce implementation using unstructured data
+- Data Cloud integration
+- AI-assisted customer support workflows
+
+### Salesforce Certifications
+
+- Salesforce Certified Administrator
+- Salesforce Platform Developer I (In Progress)
+
+🔗 Trailblazer: https://salesforce.com/trailblazer/melissahargis
+
+---
+
+# 🛠 Technical Skills
+
+### Programming Languages
+
+Python • Java • JavaScript • Apex • C++ • SQL
+
+### Data Science & Analytics
+
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Tableau
+
+### Machine Learning
+
+Hugging Face • DistilBERT • NLP • Predictive Modeling
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB • Firebase • SOQL • SOSL
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • NGINX • Ubuntu • GCP Foundations
+
+### Enterprise Platforms
+
+Salesforce • Data Cloud • SAP • Workday • SharePoint • QuickBooks
+
+---
+
+# 🤝 Volunteer Experience
+
+### Civic Engagement & Community Outreach
+
+- Organized community engagement initiatives and voter outreach efforts.
+- Participated in large-scale phone banking and civic engagement campaigns.
+- Contributed to fundraising efforts that generated over $100K in a single evening.
+
+### Animal Rescue
+
+- Volunteer transporter
+- Emergency foster support
+- Multi-state rescue coordination
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/melissa-hargis
+- GitHub: https://github.com/Tamiyo22
+- Portfolio: https://melissahargis.netlify.app
+- Trailblazer: https://salesforce.com/trailblazer/melissahargis
 
 
