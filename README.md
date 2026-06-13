@@ -10,17 +10,8 @@ Data Scientist • Software Engineer
 
 I'm a data scientist and software engineer with a background in machine learning, analytics, software development, and cloud technologies.
 
-I enjoy using data to solve real-world problems, uncover meaningful insights, and communicate findings clearly to technical and non-technical audiences alike.
+I enjoy using data to solve real world problems, uncover meaningful insights, and communicate findings clearly to technical and non-technical audiences alike.
 
-My current interests include:
-
-- Civic & Election Data
-- Data Science & Analytics
-- Machine Learning
-- Natural Language Processing
-- Data Visualization
-- Cloud Computing
-- Salesforce Development
 
 ---
 
