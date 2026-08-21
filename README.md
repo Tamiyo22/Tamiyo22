@@ -28,7 +28,7 @@ I enjoy using data to solve real world problems, uncover meaningful insights, an
 ## 💼 Professional Experience
 
 ### Data Glacier
-**Data Science Fellow** *(June 2024 – December 2025)*
+**Data Science Fellow** *(June 2024 – June 2026)*
 
 - Performed end-to-end data preparation using Python, Pandas, and NumPy.
 - Conducted exploratory data analysis and statistical modeling.
