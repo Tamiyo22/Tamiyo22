@@ -18,7 +18,7 @@ I enjoy using data to solve real world problems, uncover meaningful insights, an
 ## 🎓 Education
 
 ### Eastern University
-**Master of Science in Data Science** *(2024–Present)*
+**Certificate in Data Science**
 
 ### Western Governors University
 **Bachelor of Science in Computer Science** *(2022)*
